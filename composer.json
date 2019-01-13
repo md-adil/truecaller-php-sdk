@@ -18,8 +18,9 @@
     },
     "require": {
         "guzzlehttp/guzzle": "^6.3",
-        "phpunit/phpunit": "^7.5",
-        "hassankhan/config": "^2.0",
         "phpseclib/phpseclib": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
     }
 }
