@@ -10,7 +10,7 @@ If you haven't already installed then follow the link
 Then run following command in your terminal/command prompt where your application is installed.
 
 ```composer
-composer require adil/trucaller-php-sdk dev-master
+composer require md-adil/trucaller-php-sdk dev-master
 ```
 
 At the very top use Truecaller library to make composer autoload.
