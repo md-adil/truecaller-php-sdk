@@ -1,11 +1,16 @@
 {
     "name": "adil/trucaller-php-sdk",
+    "description": "Truecaller unofficial server side validation for truecaller authentication module",
+    "version": "0.0.1",
+    "keywords": [ "Authentication", "Truecaller", "Phone Authentication" ],
+    "type": "library",
     "authors": [
         {
             "name": "Md Adil",
             "email": "md-adil@live.com"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Adil\\Truecaller\\": "src/"

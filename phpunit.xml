@@ -1,0 +1,11 @@
+<phpunit
+	colors="true"
+	bootstrap="vendor/autoload.php"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/|version|/phpunit.xsd">
+	<testsuites>
+		<testsuite name="Truecaller Application Test">
+			<directory>tests</directory>
+		</testsuite>
+	</testsuites>
+</phpunit>
