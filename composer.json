@@ -1,5 +1,5 @@
 {
-    "name": "md-adil/trucaller-php-sdk",
+    "name": "md-adil/truecaller-php-sdk",
     "description": "Truecaller unofficial server side validation for truecaller authentication module",
     "version": "0.0.1",
     "keywords": [ "Authentication", "Truecaller", "Phone Authentication" ],
