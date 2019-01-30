@@ -62,7 +62,6 @@ class Payload implements \IteratorAggregate {
 		if(isset($this->data[$key])) {
 			return $this->data[$key];
 		}
-		return $def;
 	}
 }
 
